@@ -683,7 +683,7 @@
                 <div class="container-right" v-if="chooseIndex == 7">
                    
                    <div class="image-container">
-                       <img src="../style/images/moren.png">
+                       <img src="../style/images/hui.jpg">
                    </div>
                    <h1>汪明慧</h1>
                    
@@ -699,7 +699,7 @@
                 <div class="container-right" v-if="chooseIndex == 8">
                    
                    <div class="image-container">
-                       <img src="../style/images/moren.png">
+                       <img src="../style/images/ying.jpg">
                    </div>
                    <h1>曾颖 </h1>
                    
@@ -713,7 +713,7 @@
                 <div class="container-right" v-if="chooseIndex == 9">
                    
                    <div class="image-container">
-                       <img src="../style/images/morennan.png">
+                       <img src="../style/images/xuan.jpg">
                    </div>
                    <h1>孙宣东</h1>
                     <p class="person-introduce">科研项目</p>

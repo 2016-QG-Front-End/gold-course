@@ -337,7 +337,7 @@
                 </div>
                 <div class="teacher-context">
                     <div class="teacher-item">
-                        <img src="../style/images/register.png">
+                        <img src="../style/images/xie.png">
                         <div class="teacher-item-container">
                             <div class="teacher-name">谢光强</div>
                             <div class="teacher-doctor">博士、副教授</div>
@@ -348,113 +348,101 @@
                         </div>
                     </div>
                     <div class="teacher-item">
-                        <img src="../style/images/register.png">
+                        <img src="../style/images/wu.png">
                         <div class="teacher-item-container">
-                            <div class="teacher-name">谢光强</div>
-                            <div class="teacher-doctor">博士、副教授</div>
+                            <div class="teacher-name">吴伟民</div>
+                            <div class="teacher-doctor">教授、研究生导师</div>
                             <div class="teacher-doctor">广东工业大学计算机学院副院长</div>
-                            <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div>
+                            <div class="teacher-doctor">广东省计算机学会常务理事、图像图形分会秘书长</div>
+                            <div class="teacher-profession">主要研究领域：</div>
+                            <div class="teacher-doctor">数据结构与算法、可视计算与虚拟机、系统介入与信息安全</div>
+                        </div>
+                    </div>
+                    <div class="teacher-item">
+                        <img src="../style/images/an.png">
+                        <div class="teacher-item-container">
+                            <div class="teacher-name">曾安</div>
+                            <div class="teacher-doctor">教授、博士</div>
+                            <div class="teacher-doctor">广东工业大学计算机学院任教</div>
+                            <div class="teacher-doctor">IEEE会员</div>
+                            <div class="teacher-profession">主要研究领域：</div>
+                            <div class="teacher-doctor">人工智能、数据挖掘</div>
+                        </div>
+                    </div>
+                    <div class="teacher-item">
+                        <img src="../style/images/bo.png">
+                        <div class="teacher-item-container">
+                            <div class="teacher-name">谢国波</div>
+                            <div class="teacher-doctor">教授、硕士生导师</div>
+                            <div class="teacher-doctor">广东工业大学教学科研工作者</div>
+                            <div class="teacher-doctor">广东省高端厨房电器企业重点实验室负责人</div>
+                            <div class="teacher-profession">主要研究领域：</div>
+                            <div class="teacher-doctor">混沌保密通信，云计算与大数据，基于机器视觉的高精度检测和测量</div>
+                        </div>
+                    </div>
+                    <div class="teacher-item">
+                        <img src="../style/images/yang.png">
+                        <div class="teacher-item-container">
+                            <div class="teacher-name">李杨</div>
+                            <div class="teacher-doctor">博士，副教授</div>
+                            <div class="teacher-doctor">广东工业大学计算机学院计算机科学系副主任</div>
+                            <div class="teacher-doctor">广东省计算机学会大数据专业委员会会员</div>
                             <div class="teacher-profession">主要研究领域：</div>
                             <div class="teacher-doctor">人工智能、移动互联网、数据挖掘</div>
                         </div>
                     </div>
                     <div class="teacher-item">
-                        <img src="../style/images/register.png">
+                        <img src="../style/images/zhu.png">
                         <div class="teacher-item-container">
-                            <div class="teacher-name">谢光强</div>
+                            <div class="teacher-name">朱清华</div>
                             <div class="teacher-doctor">博士、副教授</div>
-                            <div class="teacher-doctor">广东工业大学计算机学院副院长</div>
-                            <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div>
-                            <div class="teacher-profession">主要研究领域：</div>
-                            <div class="teacher-doctor">人工智能、移动互联网、数据挖掘</div>
+                            <div class="teacher-doctor">广东工业大学计算机学院硕士生导师</div>
+                            <div class="teacher-doctor">IEEE 高级会员，ACM会员</div>
                         </div>
                     </div>
                     <div class="teacher-item">
-                        <img src="../style/images/register.png">
+                        <img src="../style/images/chen.png">
                         <div class="teacher-item-container">
-                            <div class="teacher-name">谢光强</div>
-                            <div class="teacher-doctor">博士、副教授</div>
-                            <div class="teacher-doctor">广东工业大学计算机学院副院长</div>
-                            <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div>
+                            <div class="teacher-name">陈云华</div>
+                            <div class="teacher-doctor">博士</div>
+                            <div class="teacher-doctor">广东工业大学计算机学院讲师</div>
+                            <div class="teacher-doctor">CCF会员</div>
                             <div class="teacher-profession">主要研究领域：</div>
-                            <div class="teacher-doctor">人工智能、移动互联网、数据挖掘</div>
+                            <div class="teacher-doctor">智能视频监控、面部表情识别、图像超分辨率、智能与软计算</div>
                         </div>
                     </div>
                     <div class="teacher-item">
-                        <img src="../style/images/register.png">
+                        <img src="../style/images/ying.jpg">
                         <div class="teacher-item-container">
-                            <div class="teacher-name">谢光强</div>
-                            <div class="teacher-doctor">博士、副教授</div>
-                            <div class="teacher-doctor">广东工业大学计算机学院副院长</div>
-                            <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div>
-                            <div class="teacher-profession">主要研究领域：</div>
-                            <div class="teacher-doctor">人工智能、移动互联网、数据挖掘</div>
+                            <div class="teacher-name">曾颖</div>
+                            <div class="teacher-doctor">十佳青年授课教师</div>
                         </div>
                     </div>
                     <div class="teacher-item">
-                        <img src="../style/images/register.png">
+                        <img src="../style/images/xuan.jpg">
                         <div class="teacher-item-container">
-                            <div class="teacher-name">谢光强</div>
-                            <div class="teacher-doctor">博士、副教授</div>
-                            <div class="teacher-doctor">广东工业大学计算机学院副院长</div>
-                            <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div>
-                            <div class="teacher-profession">主要研究领域：</div>
-                            <div class="teacher-doctor">人工智能、移动互联网、数据挖掘</div>
+                            <div class="teacher-name">孙宣东</div>
+                            <div class="teacher-doctor">ACM指导教师</div>
                         </div>
                     </div>
                     <div class="teacher-item">
-                        <img src="../style/images/register.png">
+                        <img src="../style/images/wei.png">
                         <div class="teacher-item-container">
-                            <div class="teacher-name">谢光强</div>
-                            <div class="teacher-doctor">博士、副教授</div>
-                            <div class="teacher-doctor">广东工业大学计算机学院副院长</div>
-                            <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div>
+                            <div class="teacher-name">林伟</div>
+                            <div class="teacher-doctor">副教授</div>
+                            <div class="teacher-doctor">广东工业大学计算机学院教师</div>
+                            <!-- <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div> -->
                             <div class="teacher-profession">主要研究领域：</div>
-                            <div class="teacher-doctor">人工智能、移动互联网、数据挖掘</div>
+                            <div class="teacher-doctor">计算机管理系统，嵌入式系统应用</div>
                         </div>
                     </div>
                     <div class="teacher-item">
-                        <img src="../style/images/register.png">
+                        <img src="../style/images/hui.jpg">
                         <div class="teacher-item-container">
-                            <div class="teacher-name">谢光强</div>
-                            <div class="teacher-doctor">博士、副教授</div>
-                            <div class="teacher-doctor">广东工业大学计算机学院副院长</div>
-                            <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div>
+                            <div class="teacher-name">汪明慧</div>
+
                             <div class="teacher-profession">主要研究领域：</div>
-                            <div class="teacher-doctor">人工智能、移动互联网、数据挖掘</div>
-                        </div>
-                    </div>
-                    <div class="teacher-item">
-                        <img src="../style/images/register.png">
-                        <div class="teacher-item-container">
-                            <div class="teacher-name">谢光强</div>
-                            <div class="teacher-doctor">博士、副教授</div>
-                            <div class="teacher-doctor">广东工业大学计算机学院副院长</div>
-                            <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div>
-                            <div class="teacher-profession">主要研究领域：</div>
-                            <div class="teacher-doctor">人工智能、移动互联网、数据挖掘</div>
-                        </div>
-                    </div>
-                    <div class="teacher-item">
-                        <img src="../style/images/register.png">
-                        <div class="teacher-item-container">
-                            <div class="teacher-name">谢光强</div>
-                            <div class="teacher-doctor">博士、副教授</div>
-                            <div class="teacher-doctor">广东工业大学计算机学院副院长</div>
-                            <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div>
-                            <div class="teacher-profession">主要研究领域：</div>
-                            <div class="teacher-doctor">人工智能、移动互联网、数据挖掘</div>
-                        </div>
-                    </div>
-                    <div class="teacher-item">
-                        <img src="../style/images/register.png">
-                        <div class="teacher-item-container">
-                            <div class="teacher-name">谢光强</div>
-                            <div class="teacher-doctor">博士、副教授</div>
-                            <div class="teacher-doctor">广东工业大学计算机学院副院长</div>
-                            <div class="teacher-doctor">中国人工智能学会科普工作委员会委员</div>
-                            <div class="teacher-profession">主要研究领域：</div>
-                            <div class="teacher-doctor">人工智能、移动互联网、数据挖掘</div>
+                            <div class="teacher-doctor">基于可信计算技术的自助服务系统终端可信环境构建研究</div>
                         </div>
                     </div>
                     
